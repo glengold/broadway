@@ -1,0 +1,7 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+.hero {
+  background-image: image(images/the-flatiron-building.png);
+}
