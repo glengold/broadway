@@ -3,7 +3,7 @@ body {
   font-family: Helvetica;
 }
 .hero {
-  background-image: src(images/the-flatiron-building.png);
+  background-image: url(../images/the-flatiron-building.png);
   font-size: 23px;
   font-weight: bold;
   color: white;
